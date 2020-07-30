@@ -3,7 +3,7 @@
 * Date Created: 18 Jul 2020
 * Last Modification Date: 30 Jul 2020
 
-## Serverless fucntions for LMS.
+## Serverless functions for LMS.
 
 These are the cloud functions (written in python 3.7) to handle user registration and authentication.
 
@@ -22,8 +22,6 @@ The aim of this modules is to handle user registration and authentication.
 - Google Datastore
 
 ## References
-
-References
 
 > [1] “CognitoIdentityProvider — Boto3 Docs 1.14.31 documentation,” Amazonaws.com, 2015. [Online]. Available: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/cognito-idp.html#CognitoIdentityProvider.Client.sign_up. [Accessed: 30-Jul-2020].‌
 
