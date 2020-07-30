@@ -60,7 +60,6 @@ def lambda_handler(event, context):
                         "SECRET_HASH": retrieve_sHash(email)}
         resp_auth = cognito.initiate_auth(
             AuthFlow='USER_PASSWORD_AUTH', AuthParameters=authenticate, ClientId=COGNITO_APP_CLIENT_ID)
-        # print('response:', response)
         accessToken = resp_auth['AuthenticationResult']['AccessToken']
         userData = cognito.get_user(AccessToken=accessToken)
 
