@@ -11,6 +11,6 @@ Repository for CSCI-5410 G2 LMS system.
 
 ## Contributors
 1. [Monil Panchal](https://git.cs.dal.ca/mpanchal)
-2. Aditya Patel
+2. [Aditya Patel](https://git.cs.dal.ca/adityap)
 3. Anshdeep Singh
 4. Naitik Prajapati
