@@ -7,4 +7,4 @@ This repo has multiple microservices and all of them can be deployed separately.
 3. [Serverless-functions](serverless_functions)
 
 ## LMS high-level system architecture
-![chartoom](resources/lms_architecture.png)
+![lms_architecture](resources/lms_system_architecture.png)
