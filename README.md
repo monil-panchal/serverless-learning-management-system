@@ -1,9 +1,10 @@
-# CSCI-5410 G2 LMS system
+# Learning Management System - Built using multi-cloud serverless architecture model  
 
-Repository for CSCI-5410 G2 LMS system.
-
-#### This repo has multiple projects and all of them can be executed separately. The following are the root directories based on the category.
+This repo has multiple microservices and all of them can be deployed separately. The following are the root directories based on the category.
 
 1. [Backend](back-end)
 2. [Frontend](front-end/csci-5410-t2-front-end)
 3. [Serverless-functions](serverless_functions)
+
+## LMS high-level system architecture
+![chartoom](resources/lms_architecture.png)
